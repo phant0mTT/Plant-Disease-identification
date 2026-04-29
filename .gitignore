@@ -4,6 +4,5 @@ New Plant Diseases Dataset(Augmented)/
 #virtual Environment
 venv/
 
-fixed_plant_disease_model.keras
 
 trained_plant_disease_model.keras
